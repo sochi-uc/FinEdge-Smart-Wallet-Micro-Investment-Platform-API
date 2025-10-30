@@ -1,0 +1,14 @@
+FinEdge : Smart Wallet & Micro-Investment Platform API
+
+FinEdge is a C# (.NET 8) backend system that simulates a digital wallet and micro-investment platform. It allows users to fund wallets, send P2P transfers, invest in plans, and automatically earn returns through background jobs. The project demonstrates secure authentication, transaction management, background processing, and financial analytics.
+
+Features
+a. User authentication and account management
+b. Wallet creation, deposits, and withdrawals
+c. Peer-to-peer (P2P) money transfers
+d. Multiple investment plans with ROI logic
+e. Automated earnings via background job service
+f. Transaction history and investment analytics
+g. Cached user dashboards for fast data access
+h. Admin control for managing plans and users
+i. Interactive API documentation using Swagger
