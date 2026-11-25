@@ -361,3 +361,11 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Accrue runtime data (database, keys) and local secrets
+App_Data/
+*.db
+*.db-shm
+*.db-wal
+.env
+appsettings.*.local.json

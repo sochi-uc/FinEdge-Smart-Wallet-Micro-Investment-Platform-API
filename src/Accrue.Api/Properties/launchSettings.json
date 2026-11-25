@@ -1,12 +1,12 @@
 {
   "profiles": {
-    "FinEdge.Api": {
+    "http": {
       "commandName": "Project",
-      "launchBrowser": true,
+      "launchBrowser": false,
+      "applicationUrl": "http://localhost:5090",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
-      },
-      "applicationUrl": "https://localhost:56034;http://localhost:56035"
+      }
     }
   }
 }
