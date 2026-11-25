@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Accrue.Api/Accrue.Api.csproj" />
+    <Project Path="src/Accrue.Application/Accrue.Application.csproj" />
+    <Project Path="src/Accrue.Domain/Accrue.Domain.csproj" />
+    <Project Path="src/Accrue.Infrastructure/Accrue.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Accrue.Tests/Accrue.Tests.csproj" />
+  </Folder>
+</Solution>
